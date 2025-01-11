@@ -8,7 +8,7 @@
    
 </head>
 <body>
-    
+    <h1>Code-For-Crush ❤️</h1>
     <p>A delightful interactive carousel designed to express love in the most creative and beautiful way possible!</p>
     <h2>✨ Features</h2>
     <ul style="list-style: none; padding: 0;">
