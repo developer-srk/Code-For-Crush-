@@ -5,43 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Code-For-Crush ❤️</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: linear-gradient(135deg, #ff9a9e, #fad0c4);
-            color: #fff;
-            text-align: center;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            font-size: 3em;
-            margin: 10px 0;
-        }
-        p {
-            font-size: 1.2em;
-            margin: 10px 0 20px;
-        }
-        .button {
-            display: inline-block;
-            background: #ff6f61;
-            color: #fff;
-            padding: 15px 25px;
-            text-decoration: none;
-            border-radius: 50px;
-            font-size: 1.2em;
-            transition: 0.3s;
-        }
-        .button:hover {
-            background: #ff4d4d;
-            transform: scale(1.05);
-        }
-        footer {
-            margin-top: 30px;
-            font-size: 0.9em;
-        }
-    </style>
+   
 </head>
 <body>
     <h1>Code-For-Crush ❤️</h1>
